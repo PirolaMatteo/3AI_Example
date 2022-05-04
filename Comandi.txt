@@ -1,0 +1,4 @@
+git clone 
+git add  .txt
+git comit  .txt
+git push
